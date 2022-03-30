@@ -1,0 +1,17 @@
+F:\MiniProject\ToolRentalManagement.Api\ToolRentalManagement.DataAccess\bin\Debug\net6.0\ToolRentalManagement.DataAccess.deps.json
+F:\MiniProject\ToolRentalManagement.Api\ToolRentalManagement.DataAccess\bin\Debug\net6.0\ToolRentalManagement.DataAccess.runtimeconfig.json
+F:\MiniProject\ToolRentalManagement.Api\ToolRentalManagement.DataAccess\bin\Debug\net6.0\ToolRentalManagement.DataAccess.dll
+F:\MiniProject\ToolRentalManagement.Api\ToolRentalManagement.DataAccess\bin\Debug\net6.0\ref\ToolRentalManagement.DataAccess.dll
+F:\MiniProject\ToolRentalManagement.Api\ToolRentalManagement.DataAccess\bin\Debug\net6.0\ToolRentalManagement.DataAccess.pdb
+F:\MiniProject\ToolRentalManagement.Api\ToolRentalManagement.DataAccess\bin\Debug\net6.0\ToolRentalManagement.Models.dll
+F:\MiniProject\ToolRentalManagement.Api\ToolRentalManagement.DataAccess\bin\Debug\net6.0\ToolRentalManagement.Models.pdb
+F:\MiniProject\ToolRentalManagement.Api\ToolRentalManagement.DataAccess\obj\Debug\net6.0\ToolRentalManagement.DataAccess.csproj.AssemblyReference.cache
+F:\MiniProject\ToolRentalManagement.Api\ToolRentalManagement.DataAccess\obj\Debug\net6.0\ToolRentalManagement.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+F:\MiniProject\ToolRentalManagement.Api\ToolRentalManagement.DataAccess\obj\Debug\net6.0\ToolRentalManagement.DataAccess.AssemblyInfoInputs.cache
+F:\MiniProject\ToolRentalManagement.Api\ToolRentalManagement.DataAccess\obj\Debug\net6.0\ToolRentalManagement.DataAccess.AssemblyInfo.cs
+F:\MiniProject\ToolRentalManagement.Api\ToolRentalManagement.DataAccess\obj\Debug\net6.0\ToolRentalManagement.DataAccess.csproj.CoreCompileInputs.cache
+F:\MiniProject\ToolRentalManagement.Api\ToolRentalManagement.DataAccess\obj\Debug\net6.0\ToolRentalManagement.DataAccess.csproj.CopyComplete
+F:\MiniProject\ToolRentalManagement.Api\ToolRentalManagement.DataAccess\obj\Debug\net6.0\ToolRentalManagement.DataAccess.dll
+F:\MiniProject\ToolRentalManagement.Api\ToolRentalManagement.DataAccess\obj\Debug\net6.0\ref\ToolRentalManagement.DataAccess.dll
+F:\MiniProject\ToolRentalManagement.Api\ToolRentalManagement.DataAccess\obj\Debug\net6.0\ToolRentalManagement.DataAccess.pdb
+F:\MiniProject\ToolRentalManagement.Api\ToolRentalManagement.DataAccess\obj\Debug\net6.0\ToolRentalManagement.DataAccess.genruntimeconfig.cache

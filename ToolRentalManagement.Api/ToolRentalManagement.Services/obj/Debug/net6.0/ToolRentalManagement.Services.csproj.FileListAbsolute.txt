@@ -1,0 +1,17 @@
+F:\MiniProject\ToolRentalManagement.Api\ToolRentalManagement.Services\bin\Debug\net6.0\ToolRentalManagement.Services.deps.json
+F:\MiniProject\ToolRentalManagement.Api\ToolRentalManagement.Services\bin\Debug\net6.0\ToolRentalManagement.Services.dll
+F:\MiniProject\ToolRentalManagement.Api\ToolRentalManagement.Services\bin\Debug\net6.0\ref\ToolRentalManagement.Services.dll
+F:\MiniProject\ToolRentalManagement.Api\ToolRentalManagement.Services\bin\Debug\net6.0\ToolRentalManagement.Services.pdb
+F:\MiniProject\ToolRentalManagement.Api\ToolRentalManagement.Services\bin\Debug\net6.0\ToolRentalManagement.Models.dll
+F:\MiniProject\ToolRentalManagement.Api\ToolRentalManagement.Services\bin\Debug\net6.0\ToolRentalManagement.Models.pdb
+F:\MiniProject\ToolRentalManagement.Api\ToolRentalManagement.Services\obj\Debug\net6.0\ToolRentalManagement.Services.csproj.AssemblyReference.cache
+F:\MiniProject\ToolRentalManagement.Api\ToolRentalManagement.Services\obj\Debug\net6.0\ToolRentalManagement.Services.GeneratedMSBuildEditorConfig.editorconfig
+F:\MiniProject\ToolRentalManagement.Api\ToolRentalManagement.Services\obj\Debug\net6.0\ToolRentalManagement.Services.AssemblyInfoInputs.cache
+F:\MiniProject\ToolRentalManagement.Api\ToolRentalManagement.Services\obj\Debug\net6.0\ToolRentalManagement.Services.AssemblyInfo.cs
+F:\MiniProject\ToolRentalManagement.Api\ToolRentalManagement.Services\obj\Debug\net6.0\ToolRentalManagement.Services.csproj.CoreCompileInputs.cache
+F:\MiniProject\ToolRentalManagement.Api\ToolRentalManagement.Services\obj\Debug\net6.0\ToolRentalManagement.Services.csproj.CopyComplete
+F:\MiniProject\ToolRentalManagement.Api\ToolRentalManagement.Services\obj\Debug\net6.0\ToolRentalManagement.Services.dll
+F:\MiniProject\ToolRentalManagement.Api\ToolRentalManagement.Services\obj\Debug\net6.0\ref\ToolRentalManagement.Services.dll
+F:\MiniProject\ToolRentalManagement.Api\ToolRentalManagement.Services\obj\Debug\net6.0\ToolRentalManagement.Services.pdb
+F:\MiniProject\ToolRentalManagement.Api\ToolRentalManagement.Services\bin\Debug\net6.0\ToolRentalManagement.DataAccess.dll
+F:\MiniProject\ToolRentalManagement.Api\ToolRentalManagement.Services\bin\Debug\net6.0\ToolRentalManagement.DataAccess.pdb

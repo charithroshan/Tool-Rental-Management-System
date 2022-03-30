@@ -1,0 +1,12 @@
+F:\MiniProject\ToolRentalManagement.Api\ToolRentalManagement.Models\bin\Debug\net6.0\ToolRentalManagement.Models.deps.json
+F:\MiniProject\ToolRentalManagement.Api\ToolRentalManagement.Models\bin\Debug\net6.0\ToolRentalManagement.Models.dll
+F:\MiniProject\ToolRentalManagement.Api\ToolRentalManagement.Models\bin\Debug\net6.0\ref\ToolRentalManagement.Models.dll
+F:\MiniProject\ToolRentalManagement.Api\ToolRentalManagement.Models\bin\Debug\net6.0\ToolRentalManagement.Models.pdb
+F:\MiniProject\ToolRentalManagement.Api\ToolRentalManagement.Models\obj\Debug\net6.0\ToolRentalManagement.Models.csproj.AssemblyReference.cache
+F:\MiniProject\ToolRentalManagement.Api\ToolRentalManagement.Models\obj\Debug\net6.0\ToolRentalManagement.Models.GeneratedMSBuildEditorConfig.editorconfig
+F:\MiniProject\ToolRentalManagement.Api\ToolRentalManagement.Models\obj\Debug\net6.0\ToolRentalManagement.Models.AssemblyInfoInputs.cache
+F:\MiniProject\ToolRentalManagement.Api\ToolRentalManagement.Models\obj\Debug\net6.0\ToolRentalManagement.Models.AssemblyInfo.cs
+F:\MiniProject\ToolRentalManagement.Api\ToolRentalManagement.Models\obj\Debug\net6.0\ToolRentalManagement.Models.csproj.CoreCompileInputs.cache
+F:\MiniProject\ToolRentalManagement.Api\ToolRentalManagement.Models\obj\Debug\net6.0\ToolRentalManagement.Models.dll
+F:\MiniProject\ToolRentalManagement.Api\ToolRentalManagement.Models\obj\Debug\net6.0\ref\ToolRentalManagement.Models.dll
+F:\MiniProject\ToolRentalManagement.Api\ToolRentalManagement.Models\obj\Debug\net6.0\ToolRentalManagement.Models.pdb

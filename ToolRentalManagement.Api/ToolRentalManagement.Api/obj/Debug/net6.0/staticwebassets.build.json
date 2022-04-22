@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "YqKEA26QPVEbPfong3Izh4P+/PhG4tglf/YsdBJMfTE=",
+  "Source": "ToolRentalManagement.Api",
+  "BasePath": "_content/ToolRentalManagement.Api",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

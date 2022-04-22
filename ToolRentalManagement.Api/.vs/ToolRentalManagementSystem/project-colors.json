@@ -1,0 +1,26 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "fc355460-6411-4f8f-b7ff-632f13b8348d": {
+      "ProjectGuid": "fc355460-6411-4f8f-b7ff-632f13b8348d",
+      "DisplayName": "ToolRentalManagement.Api",
+      "ColorIndex": 0
+    },
+    "4a8afc6b-1cf9-40ef-8c6b-bee5f57495e7": {
+      "ProjectGuid": "4a8afc6b-1cf9-40ef-8c6b-bee5f57495e7",
+      "DisplayName": "ToolRentalManagement.Models",
+      "ColorIndex": 1
+    },
+    "d4ffa0f4-c5f3-449a-ad7f-74e0a5ed7724": {
+      "ProjectGuid": "d4ffa0f4-c5f3-449a-ad7f-74e0a5ed7724",
+      "DisplayName": "ToolRentalManagement.DataAccess",
+      "ColorIndex": 2
+    },
+    "1d5ba66c-17f8-4c0f-9409-f678f00eb227": {
+      "ProjectGuid": "1d5ba66c-17f8-4c0f-9409-f678f00eb227",
+      "DisplayName": "ToolRentalManagement.Services",
+      "ColorIndex": 3
+    }
+  },
+  "NextColorIndex": 4
+}

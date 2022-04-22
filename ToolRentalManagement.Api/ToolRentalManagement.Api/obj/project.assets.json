@@ -2090,11 +2090,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "F:\\MiniProject\\ToolRentalManagement.Api\\ToolRentalManagement.Api\\ToolRentalManagement.Api.csproj",
+      "projectUniqueName": "F:\\project\\project\\ToolRentalManagement.Api\\ToolRentalManagement.Api\\ToolRentalManagement.Api.csproj",
       "projectName": "ToolRentalManagement.Api",
-      "projectPath": "F:\\MiniProject\\ToolRentalManagement.Api\\ToolRentalManagement.Api\\ToolRentalManagement.Api.csproj",
+      "projectPath": "F:\\project\\project\\ToolRentalManagement.Api\\ToolRentalManagement.Api\\ToolRentalManagement.Api.csproj",
       "packagesPath": "C:\\Users\\chari\\.nuget\\packages\\",
-      "outputPath": "F:\\MiniProject\\ToolRentalManagement.Api\\ToolRentalManagement.Api\\obj\\",
+      "outputPath": "F:\\project\\project\\ToolRentalManagement.Api\\ToolRentalManagement.Api\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\chari\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -2111,11 +2111,11 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "F:\\MiniProject\\ToolRentalManagement.Api\\ToolRentalManagement.DataAccess\\ToolRentalManagement.DataAccess.csproj": {
-              "projectPath": "F:\\MiniProject\\ToolRentalManagement.Api\\ToolRentalManagement.DataAccess\\ToolRentalManagement.DataAccess.csproj"
+            "F:\\project\\project\\ToolRentalManagement.Api\\ToolRentalManagement.DataAccess\\ToolRentalManagement.DataAccess.csproj": {
+              "projectPath": "F:\\project\\project\\ToolRentalManagement.Api\\ToolRentalManagement.DataAccess\\ToolRentalManagement.DataAccess.csproj"
             },
-            "F:\\MiniProject\\ToolRentalManagement.Api\\ToolRentalManagement.Services\\ToolRentalManagement.Services.csproj": {
-              "projectPath": "F:\\MiniProject\\ToolRentalManagement.Api\\ToolRentalManagement.Services\\ToolRentalManagement.Services.csproj"
+            "F:\\project\\project\\ToolRentalManagement.Api\\ToolRentalManagement.Services\\ToolRentalManagement.Services.csproj": {
+              "projectPath": "F:\\project\\project\\ToolRentalManagement.Api\\ToolRentalManagement.Services\\ToolRentalManagement.Services.csproj"
             }
           }
         }

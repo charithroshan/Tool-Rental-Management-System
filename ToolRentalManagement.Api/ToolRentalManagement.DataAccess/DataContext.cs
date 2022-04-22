@@ -5,8 +5,9 @@ using System.Text;
 using System.Threading.Tasks;
 using Microsoft.EntityFrameworkCore;
 using ToolRentalManagement.Models.Business;
-using ToolRentalManagement.Models.Customer;
-using ToolRentalManagement.Models.Tools;
+using ToolRentalManagement.Models;
+using ToolRentalManagement.Models.OrderId;
+using ToolRentalManagement.Models;
 using ToolRentalManagement.Models.User;
 
 namespace ToolRentalManagement.DataAccess
@@ -17,6 +18,9 @@ namespace ToolRentalManagement.DataAccess
         public DbSet<Tool> Tools { get; set; }
         public DbSet<Customer> Customers { get; set; }
         public DbSet<Business> Business { get; set; }
+        public DbSet<Order> Orders { get; set; }
+        public DbSet<OrderId> OrderIds { get; set; }
+
 
         protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
         {

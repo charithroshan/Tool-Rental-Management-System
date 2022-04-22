@@ -3,9 +3,11 @@ using System.Collections.Generic;
 using System.ComponentModel.DataAnnotations;
 using System.Linq;
 using System.Text;
+using System.Text.Json.Serialization;
 using System.Threading.Tasks;
 
-namespace ToolRentalManagement.Models.Customer
+
+namespace ToolRentalManagement.Models
 {
     public class Customer
     {
@@ -18,5 +20,7 @@ namespace ToolRentalManagement.Models.Customer
         public string Contact { get; set; }
         [Required, MaxLength(500)]
         public string Address { get; set; }
+
+        public List<Order> Orders { get; set; }
     }
 }

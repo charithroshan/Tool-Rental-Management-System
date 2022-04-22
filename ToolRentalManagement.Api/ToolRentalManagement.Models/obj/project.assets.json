@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "F:\\MiniProject\\ToolRentalManagement.Api\\ToolRentalManagement.Models\\ToolRentalManagement.Models.csproj",
+      "projectUniqueName": "F:\\project\\project\\ToolRentalManagement.Api\\ToolRentalManagement.Models\\ToolRentalManagement.Models.csproj",
       "projectName": "ToolRentalManagement.Models",
-      "projectPath": "F:\\MiniProject\\ToolRentalManagement.Api\\ToolRentalManagement.Models\\ToolRentalManagement.Models.csproj",
+      "projectPath": "F:\\project\\project\\ToolRentalManagement.Api\\ToolRentalManagement.Models\\ToolRentalManagement.Models.csproj",
       "packagesPath": "C:\\Users\\chari\\.nuget\\packages\\",
-      "outputPath": "F:\\MiniProject\\ToolRentalManagement.Api\\ToolRentalManagement.Models\\obj\\",
+      "outputPath": "F:\\project\\project\\ToolRentalManagement.Api\\ToolRentalManagement.Models\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\chari\\AppData\\Roaming\\NuGet\\NuGet.Config",

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "F:\\MiniProject\\ToolRentalManagement.Api\\ToolRentalManagement.Services\\ToolRentalManagement.Services.csproj": {}
+    "F:\\project\\project\\ToolRentalManagement.Api\\ToolRentalManagement.Services\\ToolRentalManagement.Services.csproj": {}
   },
   "projects": {
-    "F:\\MiniProject\\ToolRentalManagement.Api\\ToolRentalManagement.DataAccess\\ToolRentalManagement.DataAccess.csproj": {
+    "F:\\project\\project\\ToolRentalManagement.Api\\ToolRentalManagement.DataAccess\\ToolRentalManagement.DataAccess.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "F:\\MiniProject\\ToolRentalManagement.Api\\ToolRentalManagement.DataAccess\\ToolRentalManagement.DataAccess.csproj",
+        "projectUniqueName": "F:\\project\\project\\ToolRentalManagement.Api\\ToolRentalManagement.DataAccess\\ToolRentalManagement.DataAccess.csproj",
         "projectName": "ToolRentalManagement.DataAccess",
-        "projectPath": "F:\\MiniProject\\ToolRentalManagement.Api\\ToolRentalManagement.DataAccess\\ToolRentalManagement.DataAccess.csproj",
+        "projectPath": "F:\\project\\project\\ToolRentalManagement.Api\\ToolRentalManagement.DataAccess\\ToolRentalManagement.DataAccess.csproj",
         "packagesPath": "C:\\Users\\chari\\.nuget\\packages\\",
-        "outputPath": "F:\\MiniProject\\ToolRentalManagement.Api\\ToolRentalManagement.DataAccess\\obj\\",
+        "outputPath": "F:\\project\\project\\ToolRentalManagement.Api\\ToolRentalManagement.DataAccess\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\chari\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -28,8 +28,8 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "F:\\MiniProject\\ToolRentalManagement.Api\\ToolRentalManagement.Models\\ToolRentalManagement.Models.csproj": {
-                "projectPath": "F:\\MiniProject\\ToolRentalManagement.Api\\ToolRentalManagement.Models\\ToolRentalManagement.Models.csproj"
+              "F:\\project\\project\\ToolRentalManagement.Api\\ToolRentalManagement.Models\\ToolRentalManagement.Models.csproj": {
+                "projectPath": "F:\\project\\project\\ToolRentalManagement.Api\\ToolRentalManagement.Models\\ToolRentalManagement.Models.csproj"
               }
             }
           }
@@ -78,14 +78,14 @@
         }
       }
     },
-    "F:\\MiniProject\\ToolRentalManagement.Api\\ToolRentalManagement.Models\\ToolRentalManagement.Models.csproj": {
+    "F:\\project\\project\\ToolRentalManagement.Api\\ToolRentalManagement.Models\\ToolRentalManagement.Models.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "F:\\MiniProject\\ToolRentalManagement.Api\\ToolRentalManagement.Models\\ToolRentalManagement.Models.csproj",
+        "projectUniqueName": "F:\\project\\project\\ToolRentalManagement.Api\\ToolRentalManagement.Models\\ToolRentalManagement.Models.csproj",
         "projectName": "ToolRentalManagement.Models",
-        "projectPath": "F:\\MiniProject\\ToolRentalManagement.Api\\ToolRentalManagement.Models\\ToolRentalManagement.Models.csproj",
+        "projectPath": "F:\\project\\project\\ToolRentalManagement.Api\\ToolRentalManagement.Models\\ToolRentalManagement.Models.csproj",
         "packagesPath": "C:\\Users\\chari\\.nuget\\packages\\",
-        "outputPath": "F:\\MiniProject\\ToolRentalManagement.Api\\ToolRentalManagement.Models\\obj\\",
+        "outputPath": "F:\\project\\project\\ToolRentalManagement.Api\\ToolRentalManagement.Models\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\chari\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -132,14 +132,14 @@
         }
       }
     },
-    "F:\\MiniProject\\ToolRentalManagement.Api\\ToolRentalManagement.Services\\ToolRentalManagement.Services.csproj": {
+    "F:\\project\\project\\ToolRentalManagement.Api\\ToolRentalManagement.Services\\ToolRentalManagement.Services.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "F:\\MiniProject\\ToolRentalManagement.Api\\ToolRentalManagement.Services\\ToolRentalManagement.Services.csproj",
+        "projectUniqueName": "F:\\project\\project\\ToolRentalManagement.Api\\ToolRentalManagement.Services\\ToolRentalManagement.Services.csproj",
         "projectName": "ToolRentalManagement.Services",
-        "projectPath": "F:\\MiniProject\\ToolRentalManagement.Api\\ToolRentalManagement.Services\\ToolRentalManagement.Services.csproj",
+        "projectPath": "F:\\project\\project\\ToolRentalManagement.Api\\ToolRentalManagement.Services\\ToolRentalManagement.Services.csproj",
         "packagesPath": "C:\\Users\\chari\\.nuget\\packages\\",
-        "outputPath": "F:\\MiniProject\\ToolRentalManagement.Api\\ToolRentalManagement.Services\\obj\\",
+        "outputPath": "F:\\project\\project\\ToolRentalManagement.Api\\ToolRentalManagement.Services\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\chari\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -156,11 +156,11 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "F:\\MiniProject\\ToolRentalManagement.Api\\ToolRentalManagement.DataAccess\\ToolRentalManagement.DataAccess.csproj": {
-                "projectPath": "F:\\MiniProject\\ToolRentalManagement.Api\\ToolRentalManagement.DataAccess\\ToolRentalManagement.DataAccess.csproj"
+              "F:\\project\\project\\ToolRentalManagement.Api\\ToolRentalManagement.DataAccess\\ToolRentalManagement.DataAccess.csproj": {
+                "projectPath": "F:\\project\\project\\ToolRentalManagement.Api\\ToolRentalManagement.DataAccess\\ToolRentalManagement.DataAccess.csproj"
               },
-              "F:\\MiniProject\\ToolRentalManagement.Api\\ToolRentalManagement.Models\\ToolRentalManagement.Models.csproj": {
-                "projectPath": "F:\\MiniProject\\ToolRentalManagement.Api\\ToolRentalManagement.Models\\ToolRentalManagement.Models.csproj"
+              "F:\\project\\project\\ToolRentalManagement.Api\\ToolRentalManagement.Models\\ToolRentalManagement.Models.csproj": {
+                "projectPath": "F:\\project\\project\\ToolRentalManagement.Api\\ToolRentalManagement.Models\\ToolRentalManagement.Models.csproj"
               }
             }
           }

@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using ToolRentalManagement.DataAccess;
-using ToolRentalManagement.Models.Tools;
+using ToolRentalManagement.Models;
 
 namespace ToolRentalManagement.Services.Tools
 {

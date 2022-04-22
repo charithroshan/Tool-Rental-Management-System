@@ -5,7 +5,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace ToolRentalManagement.Models.Tools
+namespace ToolRentalManagement.Models
 {
     public class Tool
     {

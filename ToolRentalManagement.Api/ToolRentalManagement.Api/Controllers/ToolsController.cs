@@ -3,7 +3,7 @@ using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.IdentityModel.Tokens;
 using ToolRentalManagement.DataAccess;
-using ToolRentalManagement.Models.Tools;
+using ToolRentalManagement.Models;
 using ToolRentalManagement.Services.Dtos.ToolDtos;
 using ToolRentalManagement.Services.Tools;
 

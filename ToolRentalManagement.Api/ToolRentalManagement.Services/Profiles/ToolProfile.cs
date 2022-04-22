@@ -4,7 +4,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
-using ToolRentalManagement.Models.Tools;
+using ToolRentalManagement.Models;
 using ToolRentalManagement.Services.Dtos.ToolDtos;
 
 namespace ToolRentalManagement.Services.Profiles
